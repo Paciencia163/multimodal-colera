@@ -1,0 +1,9 @@
+1 Plasmódios observados!
+
+ FÓRMULAS :
+
+Numero de Plasmodio x 500 = 10.500 p/mm3
+
+Numero de Plasmodio x 40 = 840 pf/UL(Microlitros) de sangue 
+
+Numero de Plasmodio x 8000 % 100 = 1.680 pf/Ul de sangue
